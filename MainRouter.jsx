@@ -7,7 +7,7 @@ import Contact from "./src/contact";
 import Education from './src/education'
 import Project from './src/project'
 import Layout from './components/Layout'
-import Services from "./src/Services";
+import Services from "./src/services";
 
 
 
